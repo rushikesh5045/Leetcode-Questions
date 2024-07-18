@@ -7,16 +7,19 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0744-network-delay-time) |
+| [0922-possible-bipartition](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0922-possible-bipartition) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0744-network-delay-time) |
+| [0922-possible-bipartition](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0922-possible-bipartition) |
 ## Graph
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0744-network-delay-time) |
+| [0922-possible-bipartition](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0922-possible-bipartition) |
 | [1706-min-cost-to-connect-all-points](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Heap (Priority Queue)
 |  |
@@ -36,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union Find
 |  |
 | ------- |
+| [0922-possible-bipartition](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0922-possible-bipartition) |
 | [1706-min-cost-to-connect-all-points](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
