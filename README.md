@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0744-network-delay-time](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0744-network-delay-time) |
 | [0922-possible-bipartition](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0922-possible-bipartition) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
@@ -82,12 +83,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
