@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1706-min-cost-to-connect-all-points](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2846-robot-collisions) |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
