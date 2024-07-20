@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0198-house-robber) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1706-min-cost-to-connect-all-points](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1706-min-cost-to-connect-all-points) |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
