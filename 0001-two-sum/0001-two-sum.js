@@ -6,46 +6,24 @@
 var twoSum = function(nums, target) {
     let i =0;
     let j =nums.length-1;
-    let temp = [...nums];
-    let a=0;
-    let b=0;
+    let temp = nums.map((num,index)=>[num,index]);
     let ans = [-1,-1];
-    temp.sort((n,m)=>n-m);
+    temp.sort((n,m)=>n[0]-m[0]);
 
     while(i<j)
     {
-        if(temp[i]+temp[j]==target)
+        if(temp[i][0]+temp[j][0]==target)
         {
-            a=temp[i];
-            b=temp[j];
+            ans[0]=temp[i][1];
+            ans[1]=temp[j][1];
             break;
-        }else if(temp[i]+temp[j]>target)
+        }else if(temp[i][0]+temp[j][0]>target)
         {
             j--;
         }else{
             i++;
         }
     }
-
-console.log(a);
-console.log(b);
-    for(let k=0;k<nums.length;k++)
-    {
-        if(nums[k]==a)
-        {
-            ans[0]=k;
-
-        }
-      
-    }
-
-    for(let h=0;h<nums.length;h++)
-    {
-          if(nums[h]==b && h!=ans[0])
-        {
-            ans[1]=h;
-        }
-    }
-    return ans;
+return ans;
 
 };
