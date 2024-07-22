@@ -1,40 +1,16 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        vector<int> a = nums;
-        vector<int> ans (2,-1);
-        sort(a.begin(),a.end());
-        int p1 = 0;
-        int p2=nums.size()-1;
-        while(p1<p2)
+        int n = nums.size();
+        map<int,int>mp;
+        for(int i=0;i<n;i++)
         {
-            if(a[p1]+a[p2]==target)
+            if(mp.find(target-nums[i])!=mp.end())
             {
-                ans = {a[p1],a[p2]};
-                break;
-            }else if(a[p1]+a[p2]<target)
-            {
-                p1++;
-            }else{
-                p2--;
+                return {mp[target-nums[i]],i};
             }
+            mp[nums[i]]=i;
         }
-        for(int i=0;i<nums.size();i++)
-        {
-            if(nums[i]==a[p1])
-            {
-                ans[0]=i;
-                break;
-            }
-        }
-          for(int i=0;i<nums.size();i++)
-        {
-            if((nums[i]==a[p2])&&i!=ans[0])
-            {
-                ans[1]=i;
-                break;
-            }
-        }
-        return ans;
+        return {};
     }
 };
