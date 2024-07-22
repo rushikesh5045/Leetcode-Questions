@@ -4,26 +4,20 @@
  * @return {number[]}
  */
 var twoSum = function(nums, target) {
-    let i =0;
-    let j =nums.length-1;
-    let temp = nums.map((num,index)=>[num,index]);
-    let ans = [-1,-1];
-    temp.sort((n,m)=>n[0]-m[0]);
-
-    while(i<j)
+       let ans = [-1,-1];
+    let n=nums.length;
+    for(let i=0;i<n;i++)
     {
-        if(temp[i][0]+temp[j][0]==target)
+        let a = nums[i];
+        for(let j=i+1;j<n;j++)
         {
-            ans[0]=temp[i][1];
-            ans[1]=temp[j][1];
-            break;
-        }else if(temp[i][0]+temp[j][0]>target)
-        {
-            j--;
-        }else{
-            i++;
+            if(nums[j]==target-a)
+            {
+                ans[0]=i;
+                ans[1]=j;
+                return ans;
+            }
         }
     }
-return ans;
 
 };
