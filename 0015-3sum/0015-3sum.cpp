@@ -1,5 +1,7 @@
 class Solution {
 public:
+int speed= []{std::ios::sync_with_stdio(0);std::cin.tie(0);return 0;}();
+
     void twosum(vector<int>& nums,vector<vector<int>> &v,int one,int i)
     {
         int k=i+1;
