@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0015-3sum) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0198-house-robber) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -130,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0015-3sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
