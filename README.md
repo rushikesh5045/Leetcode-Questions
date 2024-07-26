@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0744-network-delay-time](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0744-network-delay-time) |
 | [0922-possible-bipartition](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0922-possible-bipartition) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1706-min-cost-to-connect-all-points](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2472-build-a-matrix-with-conditions](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Heap (Priority Queue)
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0744-network-delay-time) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Array
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0198-house-robber) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Topological Sort
 |  |
 | ------- |
