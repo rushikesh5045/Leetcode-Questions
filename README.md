@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1706-min-cost-to-connect-all-points](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2472-build-a-matrix-with-conditions](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2472-build-a-matrix-with-conditions) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0744-network-delay-time](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0744-network-delay-time) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Array
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2472-build-a-matrix-with-conditions](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2846-robot-collisions) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Union Find
 |  |
 | ------- |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1818-maximum-score-from-removing-substrings](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2502-sort-the-people) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
 | ------- |
