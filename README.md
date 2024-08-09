@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0015-3sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0198-house-robber) |
+| [0870-magic-squares-in-grid](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0870-magic-squares-in-grid) |
 | [0948-sort-an-array](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0726-number-of-atoms](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0726-number-of-atoms) |
+| [0870-magic-squares-in-grid](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0870-magic-squares-in-grid) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0870-magic-squares-in-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2472-build-a-matrix-with-conditions) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0870-magic-squares-in-grid) |
 ## Recursion
 |  |
 | ------- |
