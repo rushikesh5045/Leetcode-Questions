@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0087-scramble-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0273-integer-to-english-words](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
 | [0726-number-of-atoms](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0208-implement-trie-prefix-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0726-number-of-atoms](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0870-magic-squares-in-grid) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -195,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0040-combination-sum-ii) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
