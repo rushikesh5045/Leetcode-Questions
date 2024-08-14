@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0087-scramble-string](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0087-scramble-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0273-integer-to-english-words](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
