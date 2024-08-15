@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0744-network-delay-time](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0744-network-delay-time) |
 | [0948-sort-an-array](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0948-sort-an-array) |
 ## Shortest Path
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0015-3sum) |
+| [0295-find-median-from-data-stream](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0726-number-of-atoms](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0015-3sum) |
+| [0295-find-median-from-data-stream](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 ## Trie
 |  |
 | ------- |
@@ -218,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0062-unique-paths) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
