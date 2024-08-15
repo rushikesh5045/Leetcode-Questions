@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0198-house-robber) |
 | [0870-magic-squares-in-grid](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Sorting
