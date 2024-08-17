@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1962-single-threaded-cpu](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1962-single-threaded-cpu) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2472-build-a-matrix-with-conditions) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0087-scramble-string](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0087-scramble-string) |
 | [0198-house-robber](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0198-house-robber) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Topological Sort
 |  |
 | ------- |
