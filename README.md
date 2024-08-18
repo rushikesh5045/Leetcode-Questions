@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0744-network-delay-time) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0208-implement-trie-prefix-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0208-implement-trie-prefix-tree) |
+| [0264-ugly-number-ii](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0726-number-of-atoms](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0870-magic-squares-in-grid) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0087-scramble-string](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0087-scramble-string) |
 | [0198-house-robber](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Topological Sort
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0062-unique-paths](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0263-ugly-number](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0870-magic-squares-in-grid) |
 ## Recursion
