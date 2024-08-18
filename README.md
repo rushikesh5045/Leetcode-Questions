@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0062-unique-paths) |
+| [0263-ugly-number](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0870-magic-squares-in-grid) |
 ## Recursion
