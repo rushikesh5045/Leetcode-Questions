@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0948-sort-an-array](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0948-sort-an-array) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1962-single-threaded-cpu](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1962-single-threaded-cpu) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0198-house-robber) |
 | [0624-maximum-distance-in-arrays](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0624-maximum-distance-in-arrays) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0870-magic-squares-in-grid](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0948-sort-an-array) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0726-number-of-atoms](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0726-number-of-atoms) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0948-sort-an-array](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1464-reduce-array-size-to-the-half) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0015-3sum) |
 | [0295-find-median-from-data-stream](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0802-k-th-smallest-prime-fraction) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Merge Sort
 |  |
