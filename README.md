@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0744-network-delay-time](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0948-sort-an-array) |
+| [1464-reduce-array-size-to-the-half](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1962-single-threaded-cpu](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1962-single-threaded-cpu) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Shortest Path
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1464-reduce-array-size-to-the-half](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1706-min-cost-to-connect-all-points](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0890-lemonade-change) |
+| [1464-reduce-array-size-to-the-half](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0726-number-of-atoms](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1464-reduce-array-size-to-the-half](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1962-single-threaded-cpu](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1962-single-threaded-cpu) |
 | [2502-sort-the-people](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2502-sort-the-people) |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0726-number-of-atoms](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0870-magic-squares-in-grid) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1464-reduce-array-size-to-the-half](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2502-sort-the-people) |
