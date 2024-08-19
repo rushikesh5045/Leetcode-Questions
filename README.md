@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1706-min-cost-to-connect-all-points](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1962-single-threaded-cpu](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1962-single-threaded-cpu) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2094-remove-stones-to-minimize-the-total) |
