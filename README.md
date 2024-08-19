@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0087-scramble-string](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0087-scramble-string) |
 | [0198-house-robber](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0650-2-keys-keyboard) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Topological Sort
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0263-ugly-number](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0870-magic-squares-in-grid) |
 ## Recursion
 |  |
