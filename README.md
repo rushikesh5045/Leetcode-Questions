@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0198-house-robber) |
 | [0624-maximum-distance-in-arrays](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0624-maximum-distance-in-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0870-magic-squares-in-grid](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0890-lemonade-change) |
@@ -282,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1908-recyclable-and-low-fat-products) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
