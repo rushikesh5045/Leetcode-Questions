@@ -287,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
