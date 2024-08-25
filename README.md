@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0087-scramble-string](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0087-scramble-string) |
 | [0198-house-robber](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
+| [0338-counting-bits](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0338-counting-bits) |
 | [0650-2-keys-keyboard](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0650-2-keys-keyboard) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -292,5 +293,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
