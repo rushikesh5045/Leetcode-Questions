@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0948-sort-an-array) |
 ## Binary Search Tree
 |  |
@@ -290,5 +291,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
