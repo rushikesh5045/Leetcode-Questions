@@ -6,6 +6,9 @@ public:
         {
             return true;
         }
+        if(a>b)
+        {
+
         string str = to_string(a);
         int n = str.size()-1;
         for(int i=0;i<=n;i++)
@@ -20,8 +23,11 @@ public:
                 swap(str[i],str[j]);
             }
         }
+        }
+        else{
+
         string str2 = to_string(b);
-         n = str2.size()-1;
+         int n = str2.size()-1;
         for(int i=0;i<=n;i++)
         {
             for(int j=i+1;j<=n;j++)
@@ -33,6 +39,7 @@ public:
                 }
                 swap(str2[i],str2[j]);
             }
+        }
         }
         return false;
     }
