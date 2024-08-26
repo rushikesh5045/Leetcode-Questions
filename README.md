@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0198-house-robber) |
+| [0238-product-of-array-except-self](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0624-maximum-distance-in-arrays](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
@@ -310,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
