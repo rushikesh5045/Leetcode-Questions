@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -315,4 +317,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
