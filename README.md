@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0087-scramble-string) |
+| [0125-valid-palindrome](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0273-integer-to-english-words](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
 | [0451-sort-characters-by-frequency](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0295-find-median-from-data-stream](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0802-k-th-smallest-prime-fraction) |
 ## Divide and Conquer
