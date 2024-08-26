@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0198-house-robber) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0008-string-to-integer-atoi) |
+| [0049-group-anagrams](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0087-scramble-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0208-implement-trie-prefix-tree) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0295-find-median-from-data-stream](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0726-number-of-atoms](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0726-number-of-atoms) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
