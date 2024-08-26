@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0128-longest-consecutive-sequence](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0801-is-graph-bipartite](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0922-possible-bipartition) |
 | [1706-min-cost-to-connect-all-points](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/1706-min-cost-to-connect-all-points) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
