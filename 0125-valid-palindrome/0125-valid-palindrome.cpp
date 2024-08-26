@@ -7,7 +7,6 @@ public:
             if((s[i]>=65&&s[i]<=90))
             {
                 s[i]= s[i]-'A'+'a';
-                cout<<s[i]<<endl;
                 ans+=s[i];
             }else if(s[i]>=97&&s[i]<=122){
                ans+=s[i];
