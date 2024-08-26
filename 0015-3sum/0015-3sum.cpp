@@ -1,45 +1,39 @@
 class Solution {
 public:
-int speed= []{std::ios::sync_with_stdio(0);std::cin.tie(0);return 0;}();
-
-    void twosum(vector<int>& nums,vector<vector<int>> &v,int one,int i)
+    void twoSum(vector<int>& nums,int n1,int index,int n,vector<vector<int>>&ans)
     {
-        int k=i+1;
-        int n=nums.size()-1;
-        while(k<n)
+        int start = index;
+        int end = n;
+        while(start<end)
         {
-                if(nums[k]+nums[n]+one==0)
-                {
-                    v.push_back({one,nums[k],nums[n]});
-                    while(k<n&&nums[k]==nums[k+1])
-                    {
-                        k++;
-                    }
-                    while(n>k&&nums[n]==nums[n-1])
-                    {
-                        n--;
-                    }
-                    k++;n--;
-                
-                }else if(nums[k]+nums[n]+one>0)
-                {
-                    n--;
-                }else{
-                    k++;
-                }
+            if(nums[start]+nums[end]>n1)
+            {
+                end--;
+            }else if(nums[start]+nums[end]<n1)
+            {
+                start++;
+            }else{
+                ans.push_back({-n1,nums[start],nums[end]});
+                while(start<end&&nums[start]==nums[start+1]) start++;
+                while(start<end&&nums[end]==nums[end-1]) end--;
+                start++;
+                end--;
+            }
         }
     }
     vector<vector<int>> threeSum(vector<int>& nums) {
-        vector<vector<int>> v;
         sort(nums.begin(),nums.end());
-        for(int i=0;i<nums.size()-2;i++)
+        vector<vector<int>> ans;
+        int n = nums.size();
+        for(int i=0;i<n;i++)
         {
-            if(i==0||(i>0&&nums[i]!=nums[i-1]))
+            if(i!=0&&nums[i]==nums[i-1])
             {
-                twosum(nums,v,nums[i],i);
+                continue;
             }
+            int n1 = -nums[i];
+            twoSum(nums,n1,i+1,n-1,ans);
         }
-        return v;
-
+        return ans;
     }
 };
