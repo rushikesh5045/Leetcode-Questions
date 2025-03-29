@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0624-maximum-distance-in-arrays](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0792-binary-search](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0870-magic-squares-in-grid](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0890-lemonade-change) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0792-binary-search](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Merge Sort
