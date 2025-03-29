@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0079-word-search) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/rushikesh5045/Leetcode-Questions/tree/master/0792-binary-search) |
